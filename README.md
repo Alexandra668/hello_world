@@ -1,9 +1,6 @@
 # hello_world
 
 
-this is another banch
-
-
 11111
 
 
@@ -13,4 +10,3 @@ this is another banch
 33333
 
 hi  alex
-
